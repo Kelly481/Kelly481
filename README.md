@@ -8,12 +8,13 @@ I specialize in building end-to-end data solutions, from data analysis to deploy
 
 ## 🚀 Featured Projects
 
-### 🔹 Customer Churn Prediction API
+### 🔹 Customer Churn Prediction
 
-Machine learning model deployed as a REST API using Flask and XGBoost.
+End-to-end machine learning project for customer churn prediction using Python.  
+Includes data analysis, feature engineering and model evaluation to identify customers at risk of churn.
 
-👉 https://github.com/Kelly481/customer-churn-ml-api
-
+🔗 Repository:  
+https://github.com/Kelly481/churn-prediction
 ---
 
 ### 🔹 EDA Risk Analysis in Mountain Sports
