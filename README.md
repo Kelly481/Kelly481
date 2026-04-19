@@ -22,7 +22,6 @@ Includes data analysis, feature engineering and model evaluation to identify cus
 Exploratory data analysis focused on risk and claims in mountain sports.
 
 🔗 [View Project](https://github.com/Kelly481/eda-risk-mountain-sports)
----
 
 ## 🧠 Skills
 
