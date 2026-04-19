@@ -13,8 +13,6 @@ I specialize in building end-to-end data solutions, from data analysis to deploy
 End-to-end machine learning project for customer churn prediction using Python.  
 Includes data analysis, feature engineering and model evaluation to identify customers at risk of churn.
 
-🔗 Repository: 
-
 👉 https://github.com/Kelly481/churn-prediction
 ---
 
